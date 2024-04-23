@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "mysql2": "^3.9.7",
+    "readline-sync": "^1.4.10"
+  },
+  "name": "exercicio-bd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
